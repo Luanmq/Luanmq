@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Meu nome é Luan, tenho 20 anos e sou um estudante de Engenharia de Software pela [Universidade de Brasília (UnB)](https://unb.br/). Também sou formado em Design Gráfico pelo [Centro Universitário Iesb](https://www.iesb.br/) e meu objetivo é juntar essas duas áreas que gosto tanto trabalhando com UX/UI e Front-end.
+Meu nome é Luan, tenho 20 anos e sou estudante de Engenharia de Software pela [Universidade de Brasília (UnB)](https://unb.br/). Também sou formado em Design Gráfico pelo [Centro Universitário Iesb](https://www.iesb.br/) e meu objetivo é juntar essas duas áreas que gosto tanto trabalhando com UX/UI e Front-end.
 
 ## Meus Projetos 🧑‍💻
 **UI (User Interface):** Você pode dar uma olhada nos projetos de Interface de Usuário que fiz acessando meu perfil no figma: [figma.com/@luanmq](https://www.figma.com/@luanmq)
