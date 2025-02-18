@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Meu nome é Luan Melo, sou estudante de Engenharia de Software pela Universidade de Brasília (UnB) e sou formado em Design Gráfico pelo Centro Universitário Iesb. Meu objetivo é juntar essas duas áreas que gosto tanto.
+Olá! Meu nome é Luan, sou Designer gráfico e estudante de Engenharia de Software. Meu objetivo é criar soluções que realmente impactem o dia a dia das pessoas.
 
 ## Meus Projetos 🧑‍💻
 Você pode dar uma olhada nos projetos de Interface de Usuário que fiz acessando meu perfil no [figma](https://www.figma.com/@luanmq) ou [behance](https://www.behance.net/luanmeloq)
